@@ -6,6 +6,7 @@ Demonstrates a growth-oriented mindset, adaptability, and a strong commitment to
 
 ## CV
 [Download My CV](./Austria%20-%20ATS-Friendly%20CV.pdf)
+[Download My CV](https://raw.githubusercontent.com/jeddrenzo/jeddaustria-portfolio/main/Austria%20-%20ATS-Friendly%20CV.pdf)
 
 ## Projects
 
