@@ -5,7 +5,7 @@ Aspiring Web Developer with experience in Laravel, JavaScript, and MySQL.
 Demonstrates a growth-oriented mindset, adaptability, and a strong commitment to delivering high-quality results in professional environments.
 
 ## CV
-[Download My CV](drive.google.com/file/d/1dkdpMW78cNga21vzoeFYGDqLnFTnjS0y/view?usp=sharing)
+[Download My CV](https://github.com/jeddrenzo/jeddaustria-portfolio/blob/main/Austria%20-%20ATS-Friendly%20CV.pdf)
 
 ## Projects
 
