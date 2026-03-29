@@ -5,7 +5,7 @@ Aspiring Web Developer with experience in Laravel, JavaScript, and MySQL.
 Demonstrates a growth-oriented mindset, adaptability, and a strong commitment to delivering high-quality results in professional environments.
 
 ## CV
-[Download My CV](Austria - ATS-Friendly CV.pdf)
+[Download My CV](./Austria - ATS-Friendly CV.pdf)
 
 ## Projects
 
